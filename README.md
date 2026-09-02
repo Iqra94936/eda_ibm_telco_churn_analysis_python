@@ -2,6 +2,7 @@
 
 # Customer Churn Exploratory Data Analysis
 An exploratory data analysis project investigating the key customer demographics, services, contracts, tenure, and billing factors associated with customer churn in a telecommunications company.
+
 ## Project Overview
 Customer churn is a major business challenge for subscription-based companies. Losing existing customers can directly affect revenue and increase the cost of acquiring new customers.
 This project performs Exploratory Data Analysis (EDA) on the IBM Telco Customer Churn dataset to identify patterns and factors associated with customer churn. The analysis focuses on understanding which customer groups are more likely to churn and what characteristics are associated with higher churn rates.
